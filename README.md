@@ -16,8 +16,7 @@ Build With: Python, Python API’s, JSON, Pandas, Numpy, Matplotlib, API Request
 
 Visualization Plots:
 
-<img src="output_data/fig01_Latitude_vs_Temperature.png" width="400">
-<img src="output_data/fig02_Latitude_vs_Humidity.png" width="400">
+<img src="output_data/fig01_Latitude_vs_Temperature.png" width="400"> <img src="output_data/fig02_Latitude_vs_Humidity.png" width="400">
 <img src="output_data/fig03_Latitude_vs_Cloudiness.png" width="400">
 <img src="output_data/fig04_Latitude_vs_WindSpeed.png" width="400">
 <img src="output_data/fig05_Northern_Max_Temp_vs_Latitude.png" width="400">
