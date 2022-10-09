@@ -32,4 +32,5 @@ Observable Trends from analysis results:
 -    Narrowed down the list to 10 cities or less using 3 conditions. 
 -    Use Google API to search for the first hotel for each city in the narrowed down list within 5,000 meters coordinates.
 -    Plots the hotels on top of the humidity heatmap, with each pin containing the hotel name, city name and country.
-<img src="Images/hotel_map.png" width="400"> <img src="Images/heatmap.png" width="400">
+<img src="Images/hotel_map.png" width="400"> 
+<img src="Images/heatmap.png" width="400">
