@@ -27,3 +27,10 @@ Visualization Plots:
 -   Based on the data collected for the cities used in this analysis, it is showing that there is a correlation between the latitude and max temperature for cities in northern and southern hemisphere. The data shows a negative linear regression in the cities located in northern hemisphere and positive linear regression in the cities located in southern hemisphere. Both linear regressions indicate the farther the location of the city from the equator (0 latitude), the temperature goes down thus indicating the cities that are farther from the equator has colder temperature.
 -   The data points between the humidity vs latitude for cities in northern and southern hemisphere are spread out thus indicating that the city’s distance from the equator doesn’t influence the humidity. Similar trends are also showing in the analysis result for cloudiness vs latitude and wind speed vs latitude.
 -   The number of cities used in this analysis are not equally distributed between the cities in northern vs southern hemisphere. The are more cities located in northern hemisphere compared to the cities located in southern hemisphere. With uneven cities distributions used in this analysis, the result is showing that this distribution doesn’t influence the obvious trend that the farther the city from the equator the colder the temperature is. It is also showing that the location and distance of the city from the equator doesn’t impact the humidity, cloudiness and wind speed.
+
+2.   Create a humidity heatmap for the selected cities from the city data saved in csv file created in solution 1. 
+-    Narrowed down the list to 10 cities or less using 3 conditions. 
+-    Use Google API to search for the first hotel for each city in the narrowed down list within 5,000 meters coordinates.
+-    Plots the hotels on top of the humidity heatmap, with each pin containing the hotel name, city name and country.
+<img src="Images/hotel_map.png" width="400">
+<img src="Images/heatmap.png" width="400">
