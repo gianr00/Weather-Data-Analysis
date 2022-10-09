@@ -17,13 +17,8 @@ Build With: Python, Python API’s, JSON, Pandas, Numpy, Matplotlib, API Request
 Visualization Plots:
 
 <img src="output_data/fig01_Latitude_vs_Temperature.png" width="400"> <img src="output_data/fig02_Latitude_vs_Humidity.png" width="400">
-<img src="output_data/fig03_Latitude_vs_Cloudiness.png" width="400">
-<img src="output_data/fig04_Latitude_vs_WindSpeed.png" width="400">
-<img src="output_data/fig05_Northern_Max_Temp_vs_Latitude.png" width="400">
-<img src="output_data/fig06_Southern_Max_Temp_vs_Latitude.png" width="400">
-<img src="output_data/fig07_Northern_Humidity_vs_Latitude.png" width="400">
-<img src="output_data/fig08_Southern_Humidity_vs_Latitude.png" width="400">
-<img src="output_data/fig09_Northern_Cloudiness_vs_Latitude.png" width="400">
-<img src="output_data/fig10_Southern_Cloudiness_vs_Latitude.png" width="400">
-<img src="output_data/fig11_Northern_Wind_Speed_vs_Latitude.png" width="400">
-<img src="output_data/fig12_Southern_Wind_Speed_vs_Latitude.png" width="400">
+<img src="output_data/fig03_Latitude_vs_Cloudiness.png" width="400"> <img src="output_data/fig04_Latitude_vs_WindSpeed.png" width="400">
+<img src="output_data/fig05_Northern_Max_Temp_vs_Latitude.png" width="400"> <img src="output_data/fig06_Southern_Max_Temp_vs_Latitude.png" width="400">
+<img src="output_data/fig07_Northern_Humidity_vs_Latitude.png" width="400"> <img src="output_data/fig08_Southern_Humidity_vs_Latitude.png" width="400">
+<img src="output_data/fig09_Northern_Cloudiness_vs_Latitude.png" width="400"> <img src="output_data/fig10_Southern_Cloudiness_vs_Latitude.png" width="400">
+<img src="output_data/fig11_Northern_Wind_Speed_vs_Latitude.png" width="400"> <img src="output_data/fig12_Southern_Wind_Speed_vs_Latitude.png" width="400">
